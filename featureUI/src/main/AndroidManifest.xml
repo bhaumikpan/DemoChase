@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.featureui">
+
+    <application>
+
+        <activity android:name="com.example.featureui.view.ListActivity" />
+
+        <activity android:name="com.example.featureui.view.SchoolDetailsActivity" />
+
+    </application>
+
+</manifest>
